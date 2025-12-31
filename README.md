@@ -2,6 +2,8 @@
 
 Projeto de automação de testes end-to-end para a aplicação ParaBank utilizando Playwright, TypeScript e Page Object Model (POM).
 
+<img width="1919" height="1011" alt="Captura de tela 2025-12-30 155110" src="https://github.com/user-attachments/assets/00ddf5c8-7f48-4683-940d-34ec77dc68cf" />
+
 ## 📋 Índice
 
 - [Pré-requisitos](#pré-requisitos)
