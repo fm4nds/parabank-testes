@@ -32,7 +32,7 @@ git --version
 1. Clone o repositório:
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/fm4nds/parabank-testes
 cd parabank-testes
 ```
 
